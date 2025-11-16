@@ -1,0 +1,1 @@
+pygame.display.flip() -- renders all objects blit
